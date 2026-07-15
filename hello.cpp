@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"hello world";
-    cout<<"hello hnnu";
-    cout<<"hello yq.";
+    cout<<"hello world"<<endl;
+    cout<<"hello hnnu"<<endl;
     return 0;
 }
